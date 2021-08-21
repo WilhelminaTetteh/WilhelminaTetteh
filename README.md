@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Wilhelmina Tetteh
-- 👀 I’m interested in Web Development 
+- 👀 I’m interested in Frontend Development 
 - 🌱 I’m currently learning Node.js and Java
 - 💞️ I’m looking to collaborate on MERN stack Projects
 - 📫 How to reach me wilhelminatetteh.tech@gmail.com
