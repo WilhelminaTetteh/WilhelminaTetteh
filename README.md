@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React 
 - 💞️ I’m looking to collaborate on MERN stack Projects
 - 📫 How to reach me wilhelminatetteh.tech@gmail.com
-- 👀 take a peek at my [Resume](https://drive.google.com/file/d/1HnhCdVwwdZn3fVgWQBf-HvcskmnMjZ6a/view?usp=sharing)
+
 
 <!---
 WilhelminaTetteh/WilhelminaTetteh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
